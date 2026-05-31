@@ -1,0 +1,29 @@
+<svg width="800" height="420" viewBox="0 0 800 420" fill="none" xmlns="http://www.w3.org/2000/svg" style="background:#0d1117; border-radius:8px; padding:20px;">
+  <text x="30" y="40" fill="#58a6ff" font-family="Arial" font-size="18" font-weight="bold">Predictive-Maintenance-Aerospace/</text>
+  
+  <!-- Root files -->
+  <text x="50" y="75" fill="#8b949e" font-family="Consolas" font-size="15">├── README.md</text>
+  <text x="50" y="100" fill="#8b949e" font-family="Consolas" font-size="15">├── requirements.txt</text>
+  
+  <!-- data folder -->
+  <text x="30" y="135" fill="#79c0ff" font-family="Arial" font-size="16" font-weight="bold">├── data/</text>
+  <text x="50" y="160" fill="#8b949e" font-family="Consolas" font-size="15">│   ├── train_FD001.txt</text>
+  <text x="50" y="185" fill="#8b949e" font-family="Consolas" font-size="15">│   ├── test_FD001.txt</text>
+  <text x="50" y="210" fill="#8b949e" font-family="Consolas" font-size="15">│   └── RUL_FD001.txt</text>
+  
+  <!-- notebooks -->
+  <text x="30" y="245" fill="#79c0ff" font-family="Arial" font-size="16" font-weight="bold">├── notebooks/</text>
+  <text x="50" y="270" fill="#8b949e" font-family="Consolas" font-size="15">│   ├── 01_EDA.ipynb</text>
+  <text x="50" y="295" fill="#8b949e" font-family="Consolas" font-size="15">│   ├── 02_Feature_Engineering.ipynb</text>
+  <text x="50" y="320" fill="#8b949e" font-family="Consolas" font-size="15">│   └── 03_Model_Training.ipynb</text>
+  
+  <!-- src -->
+  <text x="30" y="355" fill="#79c0ff" font-family="Arial" font-size="16" font-weight="bold">├── src/</text>
+  <text x="50" y="380" fill="#8b949e" font-family="Consolas" font-size="15">│   ├── data_preprocessing.py</text>
+  <text x="50" y="405" fill="#8b949e" font-family="Consolas" font-size="15">│   ├── feature_engineering.py</text>
+  
+  <!-- Other folders -->
+  <text x="30" y="440" fill="#79c0ff" font-family="Arial" font-size="16" font-weight="bold">├── models/</text>
+  <text x="30" y="465" fill="#79c0ff" font-family="Arial" font-size="16" font-weight="bold">├── results/</text>
+  <text x="30" y="490" fill="#79c0ff" font-family="Arial" font-size="16" font-weight="bold">└── app/</text>
+</svg>
